@@ -1,4 +1,4 @@
-<h2>Windows Forms Application</h2>h2>
+<h2>Windows Forms Application</h2>
 <h3>Overview</h3>
 This Windows Forms application, developed using C# (.NET Framework) in Visual Studio, includes three features:
 
@@ -8,12 +8,12 @@ This Windows Forms application, developed using C# (.NET Framework) in Visual St
    
 <h3>Features</h3>
 1. Login Screen
--TextBoxes for username and password.
--Button to display the entered credentials in a message box.
+   -TextBoxes for username and password.
+   -Button to display the entered credentials in a message box.
 
 2. Address Book
--TextBoxes for name, email, and phone number.
--Button to save and display contact information in a message box.
+   -TextBoxes for name, email, and phone number.
+   -Button to save and display contact information in a message box.
 
-3. Drawing Canvas
--Canvas area where users can draw lines by dragging the mouse.
+4. Drawing Canvas
+   -Canvas area where users can draw lines by dragging the mouse.
